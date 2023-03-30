@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shisheng Hu / Homepage"
+title                    : "Shisheng Hu / Page"
 title_separator          : "-"
 name                     : &name "Shisheng Hu"
 description              : &description "personal description"
