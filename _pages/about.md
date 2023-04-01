@@ -20,4 +20,5 @@ was supervised by [Professor Ying-Chang Liang](https://scholar.google.com/citati
 
 [08/2022] I was awarded the Jon W. Mark Graduate Scholarship in Communication.
 
-[08/2022] One paper was accepted by IEEE GLOBECOM 2022.
+[08/2022] "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet 
+  of Things" [paper](https://ieeexplore.ieee.org/abstract/document/10001005) was accepted by IEEE GLOBECOM 2022.
