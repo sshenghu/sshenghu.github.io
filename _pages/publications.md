@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Immersive Communications Towards 6G
+### Immersive Communications
 
 * X. S. Shen, J. Gao, M. Li, C. Zhou, S. Hu, M. He, W. Zhuang, "Toward Immersive Communications in 6G", [arXiv:2303.05283](https://arxiv.org/abs/2303.05283), 2023.
 
