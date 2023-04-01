@@ -16,7 +16,7 @@ Before that, I received the B.Eng. degree and the M.A.Sc. degree in
 was supervised by [Professor Ying-Chang Liang](https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl=en) and 
  [Professor Yiyang Pei](https://scholar.google.com.sg/citations?user=-NBbi8YAAAAJ&hl=en).
 
-My research interest includes AI for wireless networks and digital twin-assisted networking for AI service provision towards 6G communications.
+My research interests lie in AI for managing wireless networks and digital twin-assisted networking for AI service provision towards 6G communications.
 
 ### Recent News
 
