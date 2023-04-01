@@ -20,7 +20,7 @@ My research interests lie in AI for managing wireless networks and digital twin-
 
 ### Recent News
 
-08/2022 I was awarded the Jon W. Mark Graduate Scholarship in Communication.
+_08/2022_ I was awarded the Jon W. Mark Graduate Scholarship in Communication.
 
-08/2022 "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet 
+_08/2022_ "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet 
   of Things" [paper](https://ieeexplore.ieee.org/abstract/document/10001005) was accepted by IEEE GLOBECOM 2022.
