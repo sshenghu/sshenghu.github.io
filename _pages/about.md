@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Shisheng Hu is a Ph. D. student in the Department of Electrical and Computer Engineering at the University of 
+I am a Ph. D. student in the Department of Electrical and Computer Engineering at the University of 
 Waterloo. He joined the Broadband Communications Research (BBCR) Lab, University of Waterloo, in 2021, under the 
-supervision of Professor Xuemin (Sherman) Shen. Before that, he received the B.Eng. degree and the M.A.Sc. degree in 
-2018 and 2021, respectively, from the University of Electronic Science and Technology of China (UESTC) , where he 
-was supervised by [Professor Ying-Chang Liang] (https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl=en) and Professor Yiyang Pei.
+supervision of [Professor Xuemin (Sherman) Shen](https://scholar.google.ca/citations?user=Bjl3GwoAAAAJ&hl=en). Before that, he received the B.Eng. degree and the M.A.Sc. degree in 
+2018 and 2021, respectively, from the University of Electronic Science and Technology of China (UESTC) , where I 
+was supervised by [Professor Ying-Chang Liang](https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl=en) and 
+ [Professor Yiyang Pei](https://scholar.google.com.sg/citations?user=-NBbi8YAAAAJ&hl=en).
 
 A data-driven personal website
 ======
