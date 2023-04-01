@@ -17,7 +17,7 @@ author_profile: true
 
 ### AI for Networking
 
-* S. Hu, Y. Pei, P. P. Liang and Y. Liang, "Deep Neural Network for Robust Modulation Classification Under Uncertain 
+* S. Hu, Y. Pei, P. P. Liang and Y. -C. Liang, "Deep Neural Network for Robust Modulation Classification Under Uncertain 
   Noise Conditions," in IEEE Transactions on Vehicular Technology, vol. 69, no. 1, pp. 564-577, Jan. 2020, doi: [10.
   1109/TVT.2019.2951594](https://ieeexplore.ieee.org/abstract/document/8891763/). 
 * S. Hu, Y. Pei, P. P. Liang and Y. -C. Liang, "Robust Modulation Classification under Uncertain Noise Condition Using Recurrent Neural Network," 2018 IEEE Global Communications Conference (GLOBECOM), 2018, pp. 1-7, 
