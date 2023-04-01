@@ -16,6 +16,12 @@ Before that, I received the B.Eng. degree and the M.A.Sc. degree in
 was supervised by [Professor Ying-Chang Liang](https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl=en) and 
  [Professor Yiyang Pei](https://scholar.google.com.sg/citations?user=-NBbi8YAAAAJ&hl=en).
 
+### Recent News
+
+[08/2022] I was awarded the Jon W. Mark Graduate Scholarship in Communication.
+
+[08/2022] One paper was accepted by IEEE GLOBECOM 2022.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
