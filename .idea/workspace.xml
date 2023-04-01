@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c95bc400-2a4d-4c25-9cfa-5e886de89d69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/wsssh/Documents/GitHub/sshenghu.github.io/_pages",
+    "last_opened_file_path": "C:/Users/wsssh/Documents/GitHub/sshenghu.github.io/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +42,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wsssh\Documents\GitHub\sshenghu.github.io\images" />
       <recent name="C:\Users\wsssh\Documents\GitHub\sshenghu.github.io\_pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680152435769</updated>
       <workItem from="1680152437429" duration="615000" />
-      <workItem from="1680299113855" duration="3912000" />
+      <workItem from="1680299113855" duration="4393000" />
     </task>
     <servers />
   </component>
