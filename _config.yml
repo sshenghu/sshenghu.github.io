@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shisheng Hu (胡仕生)"
 title_separator          : "-"
 name                     : &name "Shisheng Hu"
-description              : &description "Ph.D. student at Univeristy of Waterloo"
+description              : &description "Tenure-Track Assistant Professor at HKUST(GZ)"
 url                      : https://sshenghu.github.io # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sshenghu/sshenghu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shisheng Hu"
   avatar           : "profile.png"
-  bio              : "Life is not a dream. Beware, and beware, and beware."
-  location         : "Waterloo, Canada"
-  employer         :
+  bio              : "Tenure-Track Assistant Professor at HKUST(GZ)"
+  location         : "Guangzhou, China"
+  employer         : "HKUST(GZ)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oNVwWjIAAAAJ&hl=en"
-  email            : "s97hu@uwaterloo.ca"
+  email            : "shishenghu@hkust-gz.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
