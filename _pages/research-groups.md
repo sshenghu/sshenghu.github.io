@@ -11,7 +11,7 @@ Our research group is currently being established. Student profiles will be adde
 
 ## Join Our Group
 
-I am recruiting Ph.D. students, M.Phil. students, and Research Assistants for the Spring and Fall 2026 and 2027 intakes.
+I am recruiting Ph.D. and M.Phil. students for the Spring 2027 intake only. Research Assistant positions are available year-round, with both remote and on-site arrangements possible.
 
 ### Research Areas
 
