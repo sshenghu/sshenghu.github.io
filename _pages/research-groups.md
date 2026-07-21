@@ -5,19 +5,29 @@ permalink: /research-groups/
 author_profile: true
 ---
 
-## Current Students
-
-Our research group is currently being established. Student profiles will be added here as the team grows.
-
 ## Join Our Group
 
-I am recruiting Ph.D. and M.Phil. students for the Spring 2027 intake only. Research Assistant positions are available year-round, with both remote and on-site arrangements possible.
+I am recruiting Ph.D. and M.Phil. students for the Spring and Fall 2027 intakes. Research Assistant positions are available year-round, with both remote and on-site arrangements possible.
 
 ### Research Areas
 
-- Sensing, communications, and control for AI-empowered mobile agents
-- Sensing and communications for immersive applications, e.g., mobile augmented reality
-- AI-agent-assisted autonomous wireless networks
+#### Sensing, communications, and control for AI-empowered mobile agents
+
+<figure class="align-center" style="max-width: 100%;">
+  <img src="{{ site.baseurl }}/images/research-mobile-agents.png" alt="Sensing, communications, and control framework for AI-empowered mobile agents">
+</figure>
+
+#### Sensing and communications for immersive applications, e.g., mobile augmented reality
+
+<figure class="align-center" style="max-width: 100%;">
+  <img src="{{ site.baseurl }}/images/research-immersive-applications.png" alt="Sensing, generation, and delivery framework for immersive applications">
+</figure>
+
+#### AI-agent-assisted autonomous wireless networks
+
+<figure class="align-center" style="max-width: 680px;">
+  <img src="{{ site.baseurl }}/images/research-autonomous-wireless-networks.png" alt="AI-agent-assisted autonomous wireless network framework">
+</figure>
 
 ### What We Look For
 

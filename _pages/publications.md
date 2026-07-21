@@ -11,7 +11,7 @@ author_profile: true
 
 3. **S. Hu**, X. Qin, C. Zhou, Y. Pei, X. Shao, X. Huang, and X. Shen, “Model-Assisted Learning for Environment-Aware Content Delivery in Mobile AR,” *IEEE Vehicular Technology Conference (VTC2025-Fall)*, Chengdu, China, 2025. **Best Student Paper Award.**
 
-4. **S. Hu**, Y. Pei, P. P. Liang, and Y.-C. Liang, “[Deep Neural Network for Robust Modulation Classification Under Uncertain Noise Conditions](https://ieeexplore.ieee.org/document/8891763/),” *IEEE Transactions on Vehicular Technology*, vol. 69, no. 1, pp. 564–577, 2020. **ESI Highly Cited Paper.**
+4. **S. Hu**, Y. Pei, P. P. Liang, and Y.-C. Liang, “Deep Neural Network for Robust Modulation Classification Under Uncertain Noise Conditions,” *IEEE Transactions on Vehicular Technology*, vol. 69, no. 1, pp. 564–577, 2020.
 
 5. **S. Hu**, Y. Pei, and Y.-C. Liang, “Sensing-Mining-Access Tradeoff in Blockchain-Enabled Dynamic Spectrum Access,” *IEEE Wireless Communications Letters*, vol. 10, no. 4, pp. 820–824, 2021.
 
