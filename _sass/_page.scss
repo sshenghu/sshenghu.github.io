@@ -191,6 +191,61 @@
   }
 }
 
+/* Research framework gallery */
+
+.research-framework-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.research-framework-card {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0.85rem;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: #fff;
+
+  > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 220px;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: contain;
+    border-radius: 0;
+  }
+
+  figcaption {
+    width: 100%;
+    margin: 0.75rem 0 0;
+    color: $text-color;
+    font-family: $header-font-family;
+    font-size: $type-size-5;
+    font-weight: bold;
+    line-height: 1.35;
+    text-align: center;
+  }
+
+  @include breakpoint(max-width $small) {
+    > a {
+      height: 240px;
+    }
+  }
+}
+
 /*
    Social sharing
    ========================================================================== */

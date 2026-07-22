@@ -3,5 +3,8 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
+  - title: "Research Areas"
+    url: /research/
+
   - title: "Research Team"
     url: /research-team/
