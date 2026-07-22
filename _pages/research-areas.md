@@ -41,6 +41,6 @@ My research focuses on wireless sensing, communications, computing, control, and
     <a href="{{ site.baseurl }}/images/research-device-edge-learning-inference.png" target="_blank" rel="noopener" aria-label="Open the full-size device-edge learning and inference framework">
       <img src="{{ site.baseurl }}/images/research-device-edge-learning-inference.png" alt="Device-edge joint learning and inference framework">
     </a>
-    <figcaption>Device-edge joint learning and inference</figcaption>
+    <figcaption>Device-edge joint learning and inference framework</figcaption>
   </figure>
 </div>
