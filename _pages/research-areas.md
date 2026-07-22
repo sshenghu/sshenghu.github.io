@@ -3,6 +3,7 @@ layout: archive
 title: "Research Areas"
 permalink: /research/
 author_profile: true
+hide_title: true
 ---
 
 My research focuses on wireless sensing, communications, computing, control, and network intelligence for AI-empowered mobile agents, immersive applications, and autonomous wireless networks.

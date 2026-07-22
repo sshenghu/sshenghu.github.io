@@ -5,6 +5,7 @@ permalink: /research-team/
 redirect_from:
   - /research-groups/
 author_profile: true
+hide_title: true
 ---
 
 ## Join Our Research Team
@@ -16,7 +17,7 @@ I am recruiting motivated students and research assistants to join my research t
 - **Ph.D. and M.Phil. students:** Applications are open for the Spring and Fall 2027 intakes.
 - **Research Assistants:** Positions are available year-round, with both remote and on-site arrangements possible.
 
-### What We Look For
+### Candidate Qualifications
 
 - A solid theoretical foundation or research experience related to our research topics
 - Strong interest, self-motivation, and perseverance in conducting high-quality research
