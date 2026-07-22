@@ -3,6 +3,7 @@ layout: archive
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+hide_title: true
 ---
 
 [1] **S. Hu**, J. Gao, X. Qin, C. Zhou, X. Huang, M. Li, M. He, and X. Shen, “[Drift-Adaptive Slicing-Based Resource Management for Cooperative ISAC Networks](https://ieeexplore.ieee.org/document/11066172/),” *IEEE Transactions on Cognitive Communications and Networking* (**IEEE TCCN**), vol. 12, pp. 2631–2646, 2026.
