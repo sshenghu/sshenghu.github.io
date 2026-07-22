@@ -10,8 +10,8 @@ My research focuses on wireless sensing, communications, computing, control, and
 
 ### Research Topics
 
-- **Sensing, communications, and control for AI-empowered mobile agents**
-- **Sensing, communications, and computing for immersive applications, e.g., mobile augmented reality**
+- **Task-oriented sensing, communications, and computing for AI-empowered mobile agents**
+- **Generative AI-empowered immersive communications**
 - **AI-agent-assisted autonomous wireless networks**
 
 ### Research Frameworks
@@ -19,9 +19,9 @@ My research focuses on wireless sensing, communications, computing, control, and
 <div class="research-framework-grid">
   <figure class="research-framework-card">
     <a href="{{ site.baseurl }}/images/research-mobile-agents.png" target="_blank" rel="noopener" aria-label="Open the full-size mobile-agent research framework">
-      <img src="{{ site.baseurl }}/images/research-mobile-agents.png" alt="Sensing, communications, and control framework for AI-empowered mobile agents">
+      <img src="{{ site.baseurl }}/images/research-mobile-agents.png" alt="Task-oriented sensing, communications, and computing framework for AI-empowered mobile agents">
     </a>
-    <figcaption>Sensing–communication–control orchestration for AI-empowered mobile agents</figcaption>
+    <figcaption>Sensing–communication–computing co-design for AI-empowered mobile agents</figcaption>
   </figure>
 
   <figure class="research-framework-card">
