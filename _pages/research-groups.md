@@ -33,4 +33,4 @@ Please use the following email subject format, specifying the position, intended
 - **M.Phil. applicants:** `MPhil Application | Spring 2027 | Full Name` or `MPhil Application | Fall 2027 | Full Name`
 - **Research Assistant applicants:** `RA Application | Available Month Year | Full Name`
 
-All applicants are automatically considered for scholarships; no separate scholarship application is required.
+Full-time Ph.D. and M.Phil. applicants are automatically considered for the [Postgraduate Studentship (PGS)](https://fytgs.hkust-gz.edu.cn/admissions/faq); no separate application is required.
