@@ -27,4 +27,10 @@ I am recruiting motivated students and research assistants to join my research t
 
 Please email your CV to [shishenghu@hkust-gz.edu.cn](mailto:shishenghu@hkust-gz.edu.cn).
 
+Please use the following email subject format, specifying the position, intended intake or availability, and your full name:
+
+- **Ph.D. applicants:** `PhD Application | Spring 2027 | Full Name` or `PhD Application | Fall 2027 | Full Name`
+- **M.Phil. applicants:** `MPhil Application | Spring 2027 | Full Name` or `MPhil Application | Fall 2027 | Full Name`
+- **Research Assistant applicants:** `RA Application | Available Month Year | Full Name`
+
 All applicants are automatically considered for scholarships; no separate scholarship application is required.
