@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Team"
+title: "Team"
 permalink: /research-team/
 redirect_from:
   - /research-groups/
@@ -8,9 +8,9 @@ author_profile: true
 hide_title: true
 ---
 
-## Join Our Research Team
+## Join the Team
 
-I am recruiting motivated students and research assistants to join my research team at HKUST(GZ). Our work spans wireless sensing, communications, computing, control, and network intelligence. Please visit the [Research Areas](/research/) page for detailed topics and research frameworks.
+I am recruiting motivated students and research assistants to join my research team at HKUST(GZ). Our work spans wireless sensing, communications, computing, control, and network intelligence. Please visit the [Research](/research/) page for detailed topics and research frameworks.
 
 ### Open Positions
 
