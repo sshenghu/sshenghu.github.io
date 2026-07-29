@@ -8,6 +8,10 @@ author_profile: true
 hide_title: true
 ---
 
+## Team Members
+
+- **Yifeng Yuan** (starting Fall 2026; co-supervised with [Prof. Shijian Gao](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=391))
+
 ## Join the Team
 
 I am recruiting motivated students and research assistants to join my research team at HKUST(GZ). Our work spans wireless sensing, communications, computing, control, and network intelligence. Please visit the [Research](/research/) page for detailed topics and research frameworks.
