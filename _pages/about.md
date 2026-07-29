@@ -14,4 +14,4 @@ My research focuses on wireless sensing, communications, and computing for AI-em
 
 ### Open Positions
 
-I am currently recruiting Ph.D. students for the Spring and Fall 2027 intakes. Research Assistant and Research Intern positions are available year-round, with both remote and on-site arrangements possible. Please see the [Research](/research/) page for research topics and frameworks, and the [Team](/research-team/) page for application details. Prospective candidates are encouraged to contact me at [shishenghu@hkust-gz.edu.cn](mailto:shishenghu@hkust-gz.edu.cn) with a CV attached.
+I am currently recruiting Ph.D. students for the Spring and Fall 2027 intakes. Research Assistant and Research Intern positions are available year-round. Please see the [Research](/research/) page for research topics and frameworks, and the [Team](/research-team/) page for application details. Prospective candidates are encouraged to contact me at [shishenghu@hkust-gz.edu.cn](mailto:shishenghu@hkust-gz.edu.cn) with a CV attached.

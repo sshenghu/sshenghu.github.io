@@ -19,7 +19,7 @@ I am recruiting motivated students and research assistants to join my research t
 ### Open Positions
 
 - **Ph.D. students:** Applications are open for the Spring and Fall 2027 intakes.
-- **Research Assistants:** Positions are available year-round, with both remote and on-site arrangements possible.
+- **Research Assistants:** Positions are available year-round.
 
 ### Candidate Qualifications
 
