@@ -1,20 +1,21 @@
 ---
 layout: archive
-title: "Team"
-permalink: /research-team/
+title: "Supervision"
+permalink: /supervision/
 redirect_from:
   - /research-groups/
+  - /research-team/
 author_profile: true
 hide_title: true
 ---
 
-## Team Members
+## Current Supervision
 
 - **Yifeng Yuan** (starting Fall 2026; co-supervised with [Prof. Shijian Gao](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=391))
 
-## Join the Team
+## Prospective Students
 
-I am recruiting motivated students and research assistants to join my research team at HKUST(GZ). Our work spans wireless sensing, communications, computing, control, and network intelligence. Please visit the [Research](/research/) page for detailed topics and research frameworks.
+I welcome applications from motivated Ph.D. students and research assistants at HKUST(GZ). My research spans wireless sensing, communications, computing, control, and network intelligence. Please visit the [Research](/research/) page for detailed topics and research frameworks.
 
 ### Open Positions
 
