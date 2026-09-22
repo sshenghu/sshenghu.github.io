@@ -37,4 +37,4 @@ Please use the following email subject format, specifying the position, intended
 - **Ph.D. applicants:** `PhD Application | Spring 2027 | Full Name` or `PhD Application | Fall 2027 | Full Name`
 - **Research Assistant applicants:** `RA Application | Available Month Year | Full Name`
 
-Full-time Ph.D. applicants are automatically considered for the [Postgraduate Studentship (PGS)](https://fytgs.hkust-gz.edu.cn/admissions/faq); no separate application is required.
+15,000 RMB per month for maximum 4 years.
