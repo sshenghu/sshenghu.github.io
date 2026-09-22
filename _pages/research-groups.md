@@ -37,4 +37,4 @@ Please use the following email subject format, specifying the position, intended
 - **Ph.D. applicants:** `PhD Application | Spring 2027 | Full Name` or `PhD Application | Fall 2027 | Full Name`
 - **Research Assistant applicants:** `RA Application | Available Month Year | Full Name`
 
-15,000 RMB per month for maximum 4 years.
+Full-time Ph.D. applicants are automatically considered for a studentship of 15,000 RMB per month for a maximum of 4 years; no separate application is required.
